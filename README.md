@@ -1,5 +1,7 @@
 # Kafka_Ecommerce
 Projeto simulando um ecommerce, criado com Java e utilizando mensageria Kafka.
+<br>
+Feito para estudos de Apache Kafka a apartir do curso "Kafka: Produtores, Consumidores e streams" da Alura.
 
 
 ## Configurações
